@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppListaFilme</string>
+    <string-array name="genero">
+        <item>Ação</item>
+        <item>Comedia</item>
+        <item>Suspence</item>
+        <item>Terror</item>
+    </string-array>
+</resources>
